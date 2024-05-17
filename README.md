@@ -1,5 +1,6 @@
 
-## Weather App 
+# Weather App 
+   - webpage which shows current weather condition of entered Geolocation.
 
 # Overview :
 The Weather App is a simple web application that allows users to enter a city name or use their current location to fetch and display the current weather conditions. The weather data is retrieved from the OpenWeatherMap API.
